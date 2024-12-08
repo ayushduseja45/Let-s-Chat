@@ -54,7 +54,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 const SizedBox(height: 20),
                 // App Name
                 const Text(
-                  'Let\'s Chat',
+                  'Let\'s Chat ',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,

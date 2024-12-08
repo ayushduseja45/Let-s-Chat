@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459964482193",
+    "project_id": "let-s-chat-d0fe5",
+    "storage_bucket": "let-s-chat-d0fe5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459964482193:android:207220b0618ad919f33530",
+        "android_client_info": {
+          "package_name": "com.ayush.letschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcljJGtGGZmg0aG7_zavrDelw5PPskZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
